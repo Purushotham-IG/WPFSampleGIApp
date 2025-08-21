@@ -18,5 +18,9 @@
             Background="Black"
             Content="Chinnaraja's button"
             Foreground="White" />
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Ranjeet Added Button" />
+            <TextBlock Text="Ranjeet Text Box" />
+        </StackPanel>
     </Grid>
 </Window>
