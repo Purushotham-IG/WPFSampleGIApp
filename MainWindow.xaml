@@ -11,7 +11,7 @@
     mc:Ignorable="d">
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Content="Ranjeet Added Button" />
+            <Button Content="Ranjeet Added Button chinna edited the button" />
             <TextBlock Text="Ranjeet Text Box" />
         </StackPanel>
     </Grid>
