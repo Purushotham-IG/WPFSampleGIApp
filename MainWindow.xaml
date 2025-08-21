@@ -10,9 +10,9 @@
     Height="450"
     mc:Ignorable="d">
     <Grid>
-        <Button
-            HorizontalAlignment="Center"
-            VerticalAlignment="Center"
-            Content="Ranjeet Added Button" />
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Ranjeet Added Button" />
+            <TextBlock Text="Ranjeet Text Box" />
+        </StackPanel>
     </Grid>
 </Window>
