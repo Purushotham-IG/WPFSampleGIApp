@@ -16,7 +16,7 @@
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
             Background="Black"
-            Content="Chinnaraja's button"
+            Content="Chinnaraja's button - 2 "
             Foreground="White" />
     </Grid>
 </Window>
